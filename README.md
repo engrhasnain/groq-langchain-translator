@@ -110,4 +110,3 @@ http://127.0.0.1:8000/chain/batch
 
 ## 🌟 Star This Repo
 If you found this useful, consider giving it a ⭐️ to support the project!
-Let me know if you want the `requirements.txt` file content too or want to deploy it on Render/Heroku or Dockerize it.
